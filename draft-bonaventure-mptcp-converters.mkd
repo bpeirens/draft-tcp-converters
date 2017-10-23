@@ -801,7 +801,7 @@ appear in this list. The list of supported TCP Options is padded with
    |                               |     Kind #n    |   Zero       |
    +---------------------------------------------------------------+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-{: #fig-supported title="The Supported Options TLV"}
+{: #fig-supported title="The Supported TCP Options TLV"}
 
 
 
